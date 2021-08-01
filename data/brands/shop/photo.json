@@ -5,6 +5,18 @@
   },
   "items": [
     {
+      "displayName": "CVS Photo",
+      "id": "cvsphoto-be7243",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "CVS",
+        "brand:wikidata": "Q2078880",
+        "brand:wikipedia": "en:CVS Pharmacy",
+        "name": "CVS Photo",
+        "shop": "photo"
+      }
+    },
+    {
       "displayName": "Fotoprix",
       "id": "fotoprix-4b0687",
       "locationSet": {"include": ["es"]},
@@ -61,6 +73,30 @@
         "brand:wikidata": "Q7547351",
         "brand:wikipedia": "en:Snappy Snaps",
         "name": "Snappy Snaps",
+        "shop": "photo"
+      }
+    },
+    {
+      "displayName": "Walgreens Photo Center",
+      "id": "walgreensphotocenter-be7243",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Walgreens",
+        "brand:wikidata": "Q1591889",
+        "brand:wikipedia": "en:Walgreens",
+        "name": "Walgreens Photo Center",
+        "shop": "photo"
+      }
+    },
+    {
+      "displayName": "Walmart Photo Center",
+      "id": "walmartphotocenter-be7243",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Photo Center",
         "shop": "photo"
       }
     },
