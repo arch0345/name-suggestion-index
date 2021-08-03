@@ -5192,12 +5192,13 @@
       }
     },
     {
-      "displayName": "Heritage Bank (us)",
+      "displayName": "Heritage Bank (Washington)",
       "id": "heritagebank-ea2e2d",
       "locationSet": {"include": ["us"]},
       "tags": {
         "amenity": "bank",
         "brand": "Heritage Bank",
+        "brand:wikidata": "Q107803181",
         "name": "Heritage Bank"
       }
     },
